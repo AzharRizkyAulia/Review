@@ -1,0 +1,11 @@
+[
+    {
+        "nama" : "Azhar Rizky Aulia",
+        "domisili": "Bandung",
+        "hobi": [      
+            {"jenis":"Makan"},
+            {"jenis":"Tidur"},
+            {"jenis":"Minum"}
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+
+    {
+        "no" : "1",
+        "nama": "Rudi",
+        "jurusan":"TKRO",
+        "umur" : "17"
+    },
+
+    {
+        "no" : "2",
+        "nama": "Indah",
+        "jurusan":"RPL",
+        "umur" : "17"
+
+    },
+
+    {
+        "no" : "3",
+        "nama": "Elika",
+        "jurusan":"TBSM",
+        "umur" : "17"
+    }
+]
